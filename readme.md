@@ -23,7 +23,7 @@ This is a modular Python program that allows you to calculate the distance betwe
 
 - Clone this repository:
 
- `git clone <REPOSITORY_URL>`
+ `git clone https://github.com/PaoloTroni/Date-Calculator`
 
 - Navigate to the project folder:
 
