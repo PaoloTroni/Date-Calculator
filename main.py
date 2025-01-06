@@ -34,9 +34,9 @@ def main():
             calculate_date()
 
         # Lógica para finalizar o programa
-        end_program = input('\nDigite "fin" para finalizar o programa ou aperte qualquer tecla para continuar calculando datas.\n').upper()
+        end_program = input('\nDigite "fim" para finalizar o programa ou aperte qualquer tecla para continuar calculando datas.\n').upper()
 
-        if end_program == "FIN":
+        if end_program == "FIM":
             print("\nObrigado por usar esse programa.\n")
             time.sleep(1)
             print("Até a próxima! ;)\n")
